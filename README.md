@@ -1,3 +1,4 @@
 # Neura_Web
-My First Project on Git &amp; GitHub.
+My First Project on Git & GitHub.
+<br>
 Author: Manjeet Mishra
